@@ -1,0 +1,9 @@
+.results{
+    color: darkred;
+}
+
+#map {
+    height: 400px;
+    width: 400px;
+
+}
